@@ -5,3 +5,6 @@ In this project I design a schedule planner that the user can save important inf
 the time block will change to a gray color. If the hour is the current hour, the hour will change to a red color.
 
 
+
+
+![](images/Planner2.PNG)
